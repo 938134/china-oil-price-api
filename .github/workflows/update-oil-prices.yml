@@ -36,5 +36,5 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/oil_prices.json
+        git add oil_prices.json
         git diff --staged --quiet || (git commit -m "📈 Update oil prices - $(date +'%Y-%m-%d %H:%M')" && git push)

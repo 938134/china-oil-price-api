@@ -208,14 +208,13 @@ def main():
     result = api.fetch_all_prices()
     
     # 保存数据
-    os.makedirs('data', exist_ok=True)
-    with open('data/oil_prices.json', 'w', encoding='utf-8') as f:
+    with open('oil_prices.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
     print(f"✅ 数据抓取完成！")
     print(f"📊 成功: {result['statistics']['success_count']}/{result['statistics']['total_provinces']}")
     print(f"📈 成功率: {result['statistics']['success_rate']}%")
-    print(f"💾 数据已保存至: data/oil_prices.json")
+    print(f"💾 数据已保存至: oil_prices.json")
 
 if __name__ == '__main__':
     main()
