@@ -218,7 +218,7 @@ async def main():
     print(f"⏰ 开始时间: {start_time.strftime('%H:%M:%S')}")
     
     # 使用异步上下文管理器，控制并发数为15
-    async with ChinaOilPriceAPI(max_concurrent=15) as api:
+    async with ChinaOilPriceAPI(max_concurrent=5) as api:
         result = await api.fetch_all_prices()
     
     # 保存数据
