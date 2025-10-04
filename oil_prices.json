@@ -1,0 +1,548 @@
+{
+  "status": "success",
+  "last_updated": "2025-10-04T14:28:15+08:00",
+  "data_source": "www.qiyoujiage.com",
+  "version": "3.0",
+  "statistics": {
+    "total": 34,
+    "success": 30,
+    "error": 4,
+    "rate": 88.2
+  },
+  "data": {
+    "北京市": {
+      "status": "success",
+      "name": "北京市",
+      "prices": {
+        "92": 7.11,
+        "95": 7.57,
+        "98": 9.07,
+        "0": 6.8
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "天津市": {
+      "status": "success",
+      "name": "天津市",
+      "prices": {
+        "92": 7.1,
+        "95": 7.51,
+        "98": 9.01,
+        "0": 6.75
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "河北省": {
+      "status": "success",
+      "name": "河北省",
+      "prices": {
+        "92": 7.1,
+        "95": 7.51,
+        "98": 8.33,
+        "0": 6.75
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "山西省": {
+      "status": "success",
+      "name": "山西省",
+      "prices": {
+        "92": 7.07,
+        "95": 7.63,
+        "98": 9.31,
+        "0": 6.82
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "内蒙古自治区": {
+      "status": "success",
+      "name": "内蒙古自治区",
+      "prices": {
+        "92": 7.05,
+        "95": 7.53,
+        "98": 8.26,
+        "0": 6.64
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "辽宁省": {
+      "status": "success",
+      "name": "辽宁省",
+      "prices": {
+        "92": 7.21,
+        "95": 7.7,
+        "98": 8.4,
+        "0": 6.66
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "吉林省": {
+      "status": "success",
+      "name": "吉林省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.63,
+        "98": 8.32,
+        "0": 6.68
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "黑龙江省": {
+      "status": "success",
+      "name": "黑龙江省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.58,
+        "98": 8.6,
+        "0": 6.57
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "上海市": {
+      "status": "success",
+      "name": "上海市",
+      "prices": {
+        "92": 7.08,
+        "95": 7.53,
+        "98": 9.43,
+        "0": 6.73
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "江苏省": {
+      "status": "success",
+      "name": "江苏省",
+      "prices": {
+        "92": 7.09,
+        "95": 7.54,
+        "98": 9.58,
+        "0": 6.72
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:12+08:00"
+    },
+    "浙江省": {
+      "status": "success",
+      "name": "浙江省",
+      "prices": {
+        "92": 7.09,
+        "95": 7.54,
+        "98": 9.04,
+        "0": 6.74
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "安徽省": {
+      "status": "success",
+      "name": "安徽省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.58,
+        "98": 9.08,
+        "0": 6.79
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "福建省": {
+      "status": "success",
+      "name": "福建省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.56,
+        "98": 9.06,
+        "0": 6.75
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "江西省": {
+      "status": "success",
+      "name": "江西省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.6,
+        "98": 9.1,
+        "0": 6.8
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "山东省": {
+      "status": "success",
+      "name": "山东省",
+      "prices": {
+        "92": 7.08,
+        "95": 7.59,
+        "98": 8.59,
+        "0": 6.68
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "河南省": {
+      "status": "success",
+      "name": "河南省",
+      "prices": {
+        "92": 7.12,
+        "95": 7.6,
+        "98": 8.55,
+        "0": 6.74
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "湖北省": {
+      "status": "success",
+      "name": "湖北省",
+      "prices": {
+        "92": 7.12,
+        "95": 7.62,
+        "98": 9.56,
+        "0": 6.75
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "湖南省": {
+      "status": "success",
+      "name": "湖南省",
+      "prices": {
+        "92": 7.07,
+        "95": 7.51,
+        "98": 8.71,
+        "0": 6.82
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "广东省": {
+      "status": "success",
+      "name": "广东省",
+      "prices": {
+        "92": 7.13,
+        "95": 7.73,
+        "98": 9.73,
+        "0": 6.76
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "广西壮族自治区": {
+      "status": "success",
+      "name": "广西壮族自治区",
+      "prices": {
+        "92": 7.18,
+        "95": 7.75,
+        "98": 9.0,
+        "0": 6.82
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:13+08:00"
+    },
+    "海南省": {
+      "status": "success",
+      "name": "海南省",
+      "prices": {
+        "92": 8.23,
+        "95": 8.74,
+        "98": 9.88,
+        "0": 6.84
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "重庆市": {
+      "status": "success",
+      "name": "重庆市",
+      "prices": {
+        "92": 7.18,
+        "95": 7.59,
+        "98": 9.16,
+        "0": 6.83
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "四川省": {
+      "status": "success",
+      "name": "四川省",
+      "prices": {
+        "92": 7.21,
+        "95": 7.71,
+        "98": 8.38,
+        "0": 6.81
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "贵州省": {
+      "status": "success",
+      "name": "贵州省",
+      "prices": {
+        "92": 7.24,
+        "95": 7.65,
+        "98": 8.65,
+        "0": 6.86
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "云南省": {
+      "status": "success",
+      "name": "云南省",
+      "prices": {
+        "92": 7.26,
+        "95": 7.79,
+        "98": 8.47,
+        "0": 6.83
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "西藏自治区": {
+      "status": "success",
+      "name": "西藏自治区",
+      "prices": {
+        "92": 8.0,
+        "95": 8.46,
+        "98": 9.43,
+        "0": 7.31
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "陕西省": {
+      "status": "error",
+      "name": "陕西省",
+      "error": "HTTP状态码: 404",
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "甘肃省": {
+      "status": "success",
+      "name": "甘肃省",
+      "prices": {
+        "92": 7.11,
+        "95": 7.59,
+        "98": 8.16,
+        "0": 6.67
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "青海省": {
+      "status": "success",
+      "name": "青海省",
+      "prices": {
+        "92": 7.07,
+        "95": 7.58,
+        "98": 8.26,
+        "0": 6.69
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "宁夏回族自治区": {
+      "status": "success",
+      "name": "宁夏回族自治区",
+      "prices": {
+        "92": 7.02,
+        "95": 7.42,
+        "98": 8.48,
+        "0": 6.65
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:14+08:00"
+    },
+    "新疆维吾尔自治区": {
+      "status": "success",
+      "name": "新疆维吾尔自治区",
+      "prices": {
+        "92": 6.89,
+        "95": 7.38,
+        "98": 8.24,
+        "0": 6.52
+      },
+      "next_adjustment": "下次油价10月13日24时调整",
+      "trend": {
+        "direction": "up",
+        "amount": 0.05,
+        "description": "预计上调0.05元/升"
+      },
+      "update_time": "2025-10-04T14:28:15+08:00"
+    },
+    "台湾省": {
+      "status": "error",
+      "name": "台湾省",
+      "error": "HTTP状态码: 404",
+      "update_time": "2025-10-04T14:28:15+08:00"
+    },
+    "香港特别行政区": {
+      "status": "error",
+      "name": "香港特别行政区",
+      "error": "HTTP状态码: 404",
+      "update_time": "2025-10-04T14:28:15+08:00"
+    },
+    "澳门特别行政区": {
+      "status": "error",
+      "name": "澳门特别行政区",
+      "error": "HTTP状态码: 404",
+      "update_time": "2025-10-04T14:28:15+08:00"
+    }
+  }
+}
