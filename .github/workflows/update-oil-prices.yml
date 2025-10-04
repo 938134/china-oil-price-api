@@ -1,0 +1,37 @@
+name: Update China Oil Prices
+
+on:
+  schedule:
+    # 每天北京时间 8点, 12点, 18点, 22点 各运行一次
+    - cron: '0 0,4,10,14 * * *'
+  workflow_dispatch: # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run oil price fetcher
+      run: |
+        python fetch_oil_prices.py
+        
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/oil_prices.json
+        git diff --staged --quiet || (git commit -m "📈 Update oil prices - $(date +'%Y-%m-%d %H:%M')" && git push)
