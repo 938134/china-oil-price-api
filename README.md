@@ -1,20 +1,19 @@
-# 中国油价数据 API
+# 中国油价数据 API (异步极速版)
 
-自动抓取中国各省油价数据并提供 JSON API。
+基于 aiohttp 的异步并发抓取，34个省份油价数据可在 3-5 秒内完成更新。
+
+## 技术特性
+
+- 🚀 **极速抓取**: 使用 aiohttp 异步并发，比多线程快 2-3 倍
+- 🔧 **智能并发控制**: 自动限制并发连接数，避免服务器压力
+- 🔄 **连接复用**: TCP 连接复用，减少握手开销
+- 🛡️ **容错处理**: 单个省份失败不影响整体流程
+
+## 数据更新频率
+
+每天自动更新 4 次 (8:00, 12:00, 18:00, 22:00 北京时间)
 
 ## 数据访问
 
-- 原始数据: `https://raw.githubusercontent.com/你的用户名/china-oil-price-api/main/data/oil_prices.json`
-- GitHub Pages: `https://你的用户名.github.io/china-oil-price-api/data/oil_prices.json`
-
-## 支持省份
-
-共 34 个省级行政区，包括：
-- 4个直辖市
-- 23个省
-- 5个自治区  
-- 2个特别行政区
-
-## 更新频率
-
-每天自动更新 4 次 (8:00, 12:00, 18:00, 22:00 北京时间)
+- 原始数据: `https://raw.githubusercontent.com/你的用户名/china-oil-price-api/main/oil_prices.json`
+- 更新日志: 查看 GitHub Actions 运行记录
