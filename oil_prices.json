@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2025-10-10T01:46:23+08:00",
+  "last_updated": "2025-10-10T04:27:07+08:00",
   "data_source": "www.qiyoujiage.com",
   "version": "3.0",
   "statistics": {
@@ -25,7 +25,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:04+08:00"
     },
     "天津市": {
       "status": "success",
@@ -42,7 +42,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:04+08:00"
     },
     "河北省": {
       "status": "success",
@@ -59,7 +59,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:04+08:00"
     },
     "山西省": {
       "status": "success",
@@ -76,7 +76,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:04+08:00"
     },
     "内蒙古自治区": {
       "status": "success",
@@ -93,7 +93,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:04+08:00"
     },
     "辽宁省": {
       "status": "success",
@@ -110,7 +110,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "吉林省": {
       "status": "success",
@@ -127,7 +127,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "黑龙江省": {
       "status": "success",
@@ -144,7 +144,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "上海市": {
       "status": "success",
@@ -161,7 +161,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "江苏省": {
       "status": "success",
@@ -178,7 +178,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "浙江省": {
       "status": "success",
@@ -195,7 +195,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "安徽省": {
       "status": "success",
@@ -212,7 +212,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "福建省": {
       "status": "success",
@@ -229,7 +229,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "江西省": {
       "status": "success",
@@ -246,7 +246,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "山东省": {
       "status": "success",
@@ -263,7 +263,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:21+08:00"
+      "update_time": "2025-10-10T04:27:05+08:00"
     },
     "河南省": {
       "status": "success",
@@ -280,7 +280,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "湖北省": {
       "status": "success",
@@ -297,7 +297,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "湖南省": {
       "status": "success",
@@ -314,7 +314,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "广东省": {
       "status": "success",
@@ -331,7 +331,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "广西壮族自治区": {
       "status": "success",
@@ -348,7 +348,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "海南省": {
       "status": "success",
@@ -365,7 +365,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "重庆市": {
       "status": "success",
@@ -382,7 +382,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "四川省": {
       "status": "success",
@@ -399,7 +399,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "贵州省": {
       "status": "success",
@@ -416,7 +416,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "云南省": {
       "status": "success",
@@ -433,7 +433,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:22+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "西藏自治区": {
       "status": "success",
@@ -450,13 +450,13 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "陕西省": {
       "status": "error",
       "name": "陕西省",
       "error": "HTTP状态码: 404",
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "甘肃省": {
       "status": "success",
@@ -473,7 +473,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "青海省": {
       "status": "success",
@@ -490,7 +490,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "宁夏回族自治区": {
       "status": "success",
@@ -507,7 +507,7 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:06+08:00"
     },
     "新疆维吾尔自治区": {
       "status": "success",
@@ -524,25 +524,25 @@
         "amount": 0,
         "description": "价格稳定"
       },
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:07+08:00"
     },
     "台湾省": {
       "status": "error",
       "name": "台湾省",
       "error": "HTTP状态码: 404",
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:07+08:00"
     },
     "香港特别行政区": {
       "status": "error",
       "name": "香港特别行政区",
       "error": "HTTP状态码: 404",
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:07+08:00"
     },
     "澳门特别行政区": {
       "status": "error",
       "name": "澳门特别行政区",
       "error": "HTTP状态码: 404",
-      "update_time": "2025-10-10T01:46:23+08:00"
+      "update_time": "2025-10-10T04:27:07+08:00"
     }
   }
 }
